@@ -1,2 +1,3 @@
 # NDHC
-Demo for the NDHC DH retreat
+Demo for the NDHC DH retreat.
+August 24, 2019
