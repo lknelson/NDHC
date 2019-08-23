@@ -1,5 +1,5 @@
-# NDHC
-Demo for the NDHC DH retreat.  
+# NEHC
+Demo for the NEHC DH retreat  
 Applied Digital Pedagogies  
 August 24, 2019  
 
